@@ -1,8 +1,12 @@
 -🖤Hi, I’m @boro
--🖤I’m interested in C# and 𝔇𝔇𝔒𝔖
--🖤I’m currently learning C#
--🖤I m looking 4 𝔇𝔇𝔒𝔖 workers
--🖤How to reach me boroalt1312@gmail.com
+-
+🖤I’m interested in C# and 𝔇𝔇𝔒𝔖
+-
+🖤I’m currently learning C#
+-
+🖤I m looking 4 𝔇𝔇𝔒𝔖 workers
+-
+🖤How to reach me boroalt1312@gmail.com
 
 <!<h3 align="left">Connect with me:</h3>
 <p align="left">
